@@ -65,10 +65,10 @@ flutter build ios      # iOS (requires Xcode setup)
 flutter build web      # Web (optional)
 
 
-#🧭 Features & UX
+#Features & UX
 
-1) Follow-me map with a “follow location” toggle
-2) Priority filter to surface relevant alerts
-3) Dark/Light/System theme toggle
-4) Locale switch (en/fr) ready
+##1) Follow-me map with a “follow location” toggle
+##2) Priority filter to surface relevant alerts
+##3) Dark/Light/System theme toggle
+##4) Locale switch (en/fr) ready
 
