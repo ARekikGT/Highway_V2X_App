@@ -52,7 +52,13 @@
 - **Local notifications** for on-device alerts
 
 ---
+## 📱 App Video:
 
+
+https://github.com/user-attachments/assets/3acda7f6-6487-4ed1-a35b-e3e75ed8ac20
+
+
+---
 ## 📦 Project layout
 
 ```text
