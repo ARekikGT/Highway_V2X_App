@@ -15,6 +15,7 @@
 ## 🗂️ Table of contents
 - [✨ Features](#-features)
 - [🧱 Tech stack](#-tech-stack)
+- [📱  App Video](#-app-video)
 - [📦 Project layout](#-project-layout)
 - [⚡ Quick start](#-quick-start)
 - [📲 Platform setup & permissions](#-platform-setup--permissions)
